@@ -21,3 +21,5 @@ options.coffeeWithCreamAndSugar = function () {
 options.soup = function () {
   return 'Soup';
 };
+
+module.exports = menu;
