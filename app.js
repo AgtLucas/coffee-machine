@@ -1,1 +1,1 @@
-var fs = require('fs');
+var cm = require('./core');
