@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/coffee-machine/issues"
   },
-  "homepage": "https://github.com/AgtLucas/coffee-machine"
+  "homepage": "https://github.com/AgtLucas/coffee-machine",
+  "dependencies": {
+    "when": "2.7.0"
+  }
 }
