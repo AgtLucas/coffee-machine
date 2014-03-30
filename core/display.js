@@ -15,4 +15,8 @@ display.outOfStock = function (product) {
   console.log(product + ' out of stock');
 };
 
+display.noChange = function () {
+  console.log('No change. Sorry!');
+};
+
 module.exports = display;
