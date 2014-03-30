@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AgtLucas/coffee-machine",
   "dependencies": {
-    "when": "2.7.0"
+    "when": "2.7.0",
+    "loadash": "2.4.1"
   }
 }
