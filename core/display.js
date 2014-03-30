@@ -11,4 +11,8 @@ display.balance = function (balance) {
   console.log('Balance: ' + balance);
 };
 
+display.outOfStock = function (product) {
+  console.log(product + ' out of stock');
+};
+
 module.exports = display;
