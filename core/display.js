@@ -1,6 +1,6 @@
 // TODO: Implement this!
 
-var display = module.exports {
+var display = module.exports = {
 
   price: function (price) {
     console.log('Price: ' + price);
